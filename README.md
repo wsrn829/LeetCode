@@ -2,7 +2,7 @@
 
 # 1. Basic Operations
 
-## Array/Matrix
+## 1. Array/Matrix
 
 - Accessing elements by index
 - Inserting elements at a specific index
@@ -37,7 +37,7 @@
 - Shuffle an array
 - Merge two sorted arrays
 
-## Linked List
+## 2. Linked List
 
 - Inserting a node at the beginning
 - Inserting a node at the end
@@ -65,7 +65,7 @@
 - Remove duplicates from a linked list
 - Find the middle node of a linked list
 
-## Stacks
+## 3. Stacks
 
 - Pushing an element onto the stack
 - Popping an element from the stack
@@ -83,7 +83,7 @@
 - Find the average of all items in a stack
 - Find the median of all items in a stack
 
-## Queues
+## 4. Queues
 
 - Enqueuing an element
 - Dequeuing an element
@@ -100,7 +100,7 @@
 - Find the average of all items in a queue
 - Find the median of all items in a queue
 
-## Heaps
+## 5. Heaps
 
 - Inserting an element into the heap
 - Removing the top element from the heap
@@ -118,7 +118,7 @@
 - Get the height or depth of the heap
 - Clear a heap
 
-## Hash Tables
+## 6. Hash Tables
 
 - Loop over key-value pairs
 - Find the value for a key
@@ -138,7 +138,7 @@
 - Find the maximum or minimum key or value
 - Find the average of all values
 
-## Maps
+## 7. Maps
 
 - Adding a key-value pair
 - Removing a key-value pair
@@ -154,7 +154,7 @@
 
 # 2. Tree-Based Data Structures:
 
-## Binary Tree
+## 1. Binary Tree
 
 - Inserting a node
 - Removing a node
@@ -169,7 +169,7 @@
 - Checking if the tree is balanced
 
 
-## Binary Search Tree (BST)
+## 2. Binary Search Tree (BST)
 
 - Inserting a node
 - Removing a node
@@ -180,7 +180,7 @@
 - Checking if the tree is balanced or not
 
 
-## Graph
+## 3. Graph
 
 - Adding a node to the graph
 - Removing a node from the graph
@@ -206,7 +206,7 @@
 
 # 3. Advanced Operations:
 
-## Binary Search
+## 1. Binary Search
 
 - Searching for an element in a sorted array
 - Finding the index of an element in a sorted array
@@ -216,7 +216,7 @@
 - Finding the number of occurrences of an element in a sorted array
 - Finding the closest element to a target in a sorted array
 
-## Sorting algorithms
+## 2. Sorting Algorithms
 
 - Bubble sort
 - Insertion sort
@@ -238,7 +238,7 @@
 - Bogo sort
 - Sleep sort
 
-## Recursion
+## 3. Recursion
 
 - Defining a base case
 - Making a recursive call
