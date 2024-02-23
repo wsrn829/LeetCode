@@ -223,20 +223,6 @@
 - Selection sort
 - Merge sort
 - Quick sort
-- Heap sort
-- Counting sort
-- Radix sort
-- Bucket sort
-- Shell sort
-- Tim sort
-- Cocktail sort
-- Comb sort
-- Odd-even sort
-- Gnome sort
-- Cycle sort
-- Stooge sort
-- Bogo sort
-- Sleep sort
 
 ## 3. Recursion
 
