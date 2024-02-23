@@ -27,3 +27,4 @@
 
     key in dict.keys(): This creates a list of all the keys in the dictionary and then checks if the key exists in that list. This is less efficient because creating the list of keys takes O(n) time, where n is the number of keys in the dictionary. Additionally, it is less readable because it is not immediately clear that you are checking for the presence of a key in a dictionary.
 
+4. The choice of -1 as the return value for indicating that the target is not found in the array is a convention that has been widely adopted in programming, especially in languages like C, C++, and Python, where array indices start from 0. 
