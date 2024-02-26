@@ -29,3 +29,5 @@ key in dict.keys(): This creates a list of all the keys in the dictionary and th
 4. The choice of -1 as the return value for indicating that the target is not found in the array is a convention that has been widely adopted in programming, especially in languages like C, C++, and Python, where array indices start from 0. 
 
 5. The % operator is used for the modulo operation, which calculates the remainder of the division of two numbers, while the // operator is used for floor division, which calculates the quotient of the division of two numbers, rounded down to the nearest whole number.
+
+6. Matrix is a special case of two dimensional array where each data element is of strictly same size. So every matrix is also a two dimensional array but not vice versa.
