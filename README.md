@@ -234,7 +234,7 @@
 - Converting an iterative algorithm to a recursive algorithm
 - Converting a recursive algorithm to an iterative algorithm
 
-# 4. Some of The Most Important SQL Commands
+# 4. Key SQL Commands
 
 - SELECT - extracts data from a database
 
